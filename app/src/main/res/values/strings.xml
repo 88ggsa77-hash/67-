@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Via</string>
+    <string name="start_page_tagline">Fast, minimal &amp; private</string>
+    <string name="omnibox_placeholder">Search or enter web address</string>
+    <string name="cd_back">Go back</string>
+    <string name="cd_forward">Go forward</string>
+    <string name="cd_home">Home page</string>
+    <string name="cd_tabs">Open tabs</string>
+    <string name="cd_refresh">Reload page</string>
+    <string name="cd_stop">Stop loading</string>
+    <string name="cd_menu">Quick settings</string>
+    <string name="cd_clear_url">Clear address bar</string>
+    <string name="cd_shield_active">Ad Blocker active</string>
+    <string name="cd_shield_inactive">Ad Blocker disabled</string>
+    <string name="cd_secure_connection">Secure HTTPS connection</string>
+    <string name="cd_insecure_connection">Unencrypted HTTP connection</string>
+    <string name="cd_new_tab">New tab</string>
+    <string name="cd_close_tab">Close tab</string>
+    <string name="quick_settings_title">Quick Settings</string>
+    <string name="setting_ad_block_title">Ad Blocker</string>
+    <string name="setting_ad_block_desc">O(1) host blocking for ads &amp; trackers</string>
+    <string name="setting_no_images_title">Disable Images</string>
+    <string name="setting_no_images_desc">Save mobile data and speed up pages</string>
+    <string name="setting_night_mode_title">Night Mode</string>
+    <string name="setting_night_mode_desc">Dark theme for Via UI and web pages</string>
+    <string name="tabs_sheet_title">Open Tabs</string>
+    <string name="new_tab_button">New Tab</string>
+    <string name="home_tab_title">Via Start</string>
+    <string name="quick_links_label">Quick Access</string>
+    <string name="ads_blocked_badge">%1$d blocked</string>
+    <string name="share_page">Share URL</string>
+    <string name="copy_url">Copy URL</string>
+    <string name="url_copied_message">URL copied to clipboard</string>
+    <string name="desktop_mode_title">Desktop Site</string>
+    <string name="desktop_mode_desc">Request desktop layout for this tab</string>
+    <string name="clear_cache_action">Clear Cache &amp; Cookies</string>
+    <string name="cache_cleared_message">Browser cache and cookies cleared</string>
+</resources>
